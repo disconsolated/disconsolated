@@ -93,6 +93,7 @@
 <div>
 <a href= https://github.com/?tab=repositories&q=&type=&language=nginx&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/BackendDevelopment/nginx.svg'> </a>
 <a href= https://github.com/?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/BackendDevelopment/nodejs.svg'> </a>
+<a href= https://github.com/?tab=repositories&q=&type=&language=aws&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Devops/aws.svg'> </a>
 <a href= https://github.com/?tab=repositories&q=&type=&language=docker&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Devops/docker.svg'> </a>
 <a href= https://github.com/?tab=repositories&q=&type=&language=kubernetes&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Devops/kubernetes.svg'> </a>
 <a href= https://github.com/?tab=repositories&q=&type=&language=linux&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Other/linux.svg'> </a>
