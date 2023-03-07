@@ -28,8 +28,6 @@
   </a>
 </div>
 
-[![@alacritty's Holopin board](https://holopin.me/alacritty)](https://holopin.io/@alacritty)
-
 <div id="greet" align="center">
   <h1>
     Hello < Developers />
