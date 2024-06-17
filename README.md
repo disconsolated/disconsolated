@@ -48,5 +48,3 @@
 </div>
 
 ---
-
-# <div align="center"><img src="https://i.imgur.com/CKfyUx6.jpeg" width="805px" height="250px"/>The End... for now. 🎉</div>
